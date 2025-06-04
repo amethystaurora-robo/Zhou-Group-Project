@@ -4,9 +4,9 @@ This project involved an analysis of fish populations vs. chemical concentration
 - the deployment of an interactive map, allowing the user to explore chemicals in UK waterways over time
 - a published academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
 <p align="left">
-  <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
+  <img src="https://github.com/amethystaurora-robo/Zhou-Group-Project/blob/main/Academic_poster_final.png"/>
+</p>
+<p align="left">
   <a href="https://ameest95.wixsite.com/my-site-5/about-4" target="_blank">
     <img src="https://img.shields.io/badge/Use%20Tool-d8a8a5?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
