@@ -13,4 +13,7 @@ This project involved an analysis of fish populations vs. chemical concentration
   <a href="https://github.com/amethystaurora-robo/Zhou-Group-Project/blob/main/Academic_poster_final.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Poster-7d3f4e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
+    <img src="https://img.shields.io/badge/Interact%20with%20more%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
 </p>
